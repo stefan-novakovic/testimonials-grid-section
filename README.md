@@ -1,2 +1,2 @@
 Testimonials grid section\
-DEMO:
+DEMO: https://testimonials-grid-section-novakovic.netlify.app/

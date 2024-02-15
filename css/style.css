@@ -71,7 +71,6 @@ main {
   background: url(../images/bg-pattern-quotation.svg) 356px 0 no-repeat,
     var(--MODERATE-VIOLET);
   padding: 24px 30px 31px;
-  transition: all 1s;
 }
 
 .grid__box-jonathan {
@@ -233,6 +232,5 @@ main {
   .grid__box-daniel {
     background: url(../images/bg-pattern-quotation.svg) 195px 0 no-repeat,
       var(--MODERATE-VIOLET);
-    transition: all 1s;
   }
 }
